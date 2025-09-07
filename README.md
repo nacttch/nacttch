@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://ibb.co/ksr7BDKP" alt="Profile Banner" width="100%" />
+  
+  ![Web Raccoon](banner.jpg)
+
 </div>
 
 <div align="center">
@@ -42,7 +44,7 @@ I’m driven by curiosity and the challenge of making systems more resilient and
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nacttch)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nacttch)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dontbekai)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nactch)
 
 </div>
 
